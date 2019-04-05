@@ -1,4 +1,4 @@
-pragma solidity ^0.5.1;
+pragma solidity ^0.4.21;
 
 contract HelloWorld {
     function hello() public pure returns (string memory) {
